@@ -9,7 +9,7 @@
 <h1 align="center">Hii 👋, I'm Mounika Madupoju</h1>
 <h3 align="center">A Full Stack and Web Developer</h3>
 
-- 🌱 I’m currently learning **Devops,DSA and Block Chain**
+- 🌱 I’m currently learning **Devops,DSA,AI and Block Chain**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
