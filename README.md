@@ -151,6 +151,17 @@ I'm improving my problem-solving skills through **pattern-based DSA practice**.
 
 ---
 
+# 🔥 Current & Longest Streaks
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=madupojumounika&theme=tokyonight&hide_border=true"
+    alt="GitHub Current and Longest Streak"
+  />
+</p>
+
+---
+
 # 🐍 Contribution Snake
 
 <p align="center">
