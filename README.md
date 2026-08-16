@@ -22,7 +22,7 @@
 - 💻 Building **Full-Stack and AI-powered applications**
 - 🧩 Practicing **DSA & problem solving**
 - 🏆 **Smart India Hackathon Finalist**
-- 🌱 Currently exploring **LLMs, RAG, Agentic AI & Advanced DSA**
+- 🌱 Exploring **LLMs, RAG, Agentic AI & System Design**
 - 🚀 Passionate about building projects that solve real-world problems
 
 ---
@@ -31,17 +31,17 @@
 
 <p align="center">
 
-🤖 <b>AI/ML</b>
+<b>AI/ML</b>
 &nbsp; → &nbsp;
-🧠 <b>Generative AI</b>
+<b>Generative AI</b>
 &nbsp; → &nbsp;
-🔗 <b>RAG</b>
+<b>RAG</b>
 &nbsp; → &nbsp;
-⚡ <b>Agentic AI</b>
+<b>Agentic AI</b>
 &nbsp; → &nbsp;
-💻 <b>Full-Stack</b>
+<b>Full-Stack</b>
 &nbsp; → &nbsp;
-🧩 <b>DSA</b>
+<b>DSA</b>
 
 </p>
 
@@ -89,16 +89,16 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🤖 **Code-Mentor** | AI coding interview coach with practice, feedback & skill tracking. | React • Node.js • MongoDB |
-| 🏥 **MedLink AI** | AI-powered emergency referral platform connecting doctors, hospitals & ambulances. | React • Node.js • AI |
-| 🏫 **Smart Classrooms** | Intelligent classroom and timetable scheduling system. | React • Node.js |
-| 📦 **File Utils CLI** | NPM CLI for file management and text-processing operations. | Node.js • NPM |
-| 💰 **Expense Tracker** | Simple application for tracking and managing personal expenses. | React • JavaScript |
-| ₿ **Crypto Tracker** | Cryptocurrency tracking application using real-time API data. | React • JavaScript |
+| **Code-Mentor** | AI coding interview coach with practice, feedback & skill tracking. | React • Node.js • MongoDB |
+| **MedLink AI** | AI-powered emergency referral platform connecting doctors, hospitals & ambulances. | React • Node.js • AI |
+| **Smart Classrooms** | Intelligent classroom and timetable scheduling system. | React • Node.js |
+| **File Utils CLI** | NPM CLI for file management and text-processing operations. | Node.js • NPM |
+| **Expense Tracker** | Simple application for tracking and managing personal expenses. | React • JavaScript |
+| **Crypto Tracker** | Cryptocurrency tracking application using real-time API data. | React • JavaScript |
 
 <p align="center">
   <a href="https://github.com/madupojumounika?tab=repositories">
-    <b>🔗 Explore All Projects →</b>
+    <b>Explore All Projects →</b>
   </a>
 </p>
 
@@ -131,16 +131,16 @@ I'm improving my problem-solving skills through **pattern-based DSA practice**.
 
 | Achievement | Details |
 |---|---|
-| 🏆 Hackathon | **Smart India Hackathon Finalist** |
-| 💻 DSA | **Active LeetCode Problem Solver** |
-| 🎓 Virtual Experience | **JPMorgan Chase Software Engineering Experience** |
-| 🤖 AI | Building **AI-powered applications** |
-| 🚀 Development | Built multiple **Full-Stack applications** |
-| 📦 NPM | Building **Developer-focused CLI tools** |
+| **Hackathon** | Smart India Hackathon Finalist |
+| **DSA** | Active LeetCode Problem Solver |
+| **Virtual Experience** | JPMorgan Chase Software Engineering Experience |
+| **AI** | Building AI-powered applications |
+| **Development** | Built multiple Full-Stack applications |
+| **NPM** | Building developer-focused CLI tools |
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Activity
 
 <p align="center">
   <img
@@ -177,17 +177,19 @@ I'm improving my problem-solving skills through **pattern-based DSA practice**.
 
 <p align="center">
 
-🤖 <b>Generative AI</b>
+<b>Generative AI</b>
 &nbsp; • &nbsp;
-🧠 <b>LLMs</b>
+<b>LLMs</b>
 &nbsp; • &nbsp;
-🔗 <b>RAG</b>
+<b>RAG</b>
 &nbsp; • &nbsp;
-⚡ <b>Agentic AI</b>
+<b>Agentic AI</b>
 &nbsp; • &nbsp;
-💻 <b>Backend Development</b>
+<b>System Design</b>
 &nbsp; • &nbsp;
-🧩 <b>Advanced DSA</b>
+<b>Backend Development</b>
+&nbsp; • &nbsp;
+<b>Advanced DSA</b>
 
 </p>
 
@@ -238,6 +240,6 @@ I'm improving my problem-solving skills through **pattern-based DSA practice**.
 
 <p align="center">
 
-<b>💫 Learn. Build. Solve. Repeat. 🚀</b>
+<b>Learn. Build. Solve. Repeat. 🚀</b>
 
 </p>
